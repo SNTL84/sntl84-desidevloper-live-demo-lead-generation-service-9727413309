@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀Single Souls 30+ — Strangers Meet is a community/event campaign by SNTL 84 , Mads & MetroMate — DesiDevloper Live Demo 
+For lead generation services, see the contact information in this README.
 
 **Agentic AI Workflow Professional · Performance Marketing · Automation · Full-Stack Builds · Supply Chain Business Intelligence**
 
@@ -367,3 +368,7 @@ This repository is designed for professional client delivery. Protect personal/p
 🌐 [desidevloper.com](https://desidevloper.com) · 💬 [wa.me/919727413309](https://wa.me/919727413309) · 💼 [linkedin.com/in/sntl2784](https://linkedin.com/in/sntl2784) · 💻 [github.com/SNTL84](https://github.com/SNTL84) · 📸 [instagram.com/desibiztrade](https://www.instagram.com/desibiztrade)
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
