@@ -1,4 +1,5 @@
 # Single Souls 30+ — Community Fan Page Case Study
+For lead generation services, see the contact information in this README.
 
 > A Metro Ads Services client-delivery repository for the **Single Souls 30+** community fan page and event promotion system.
 
@@ -164,3 +165,7 @@ The same operating model can be reused for monthly single-social events, city-to
 ## Governance Note
 
 Do not claim actual reach, follower growth, conversions, attendance or ROI until those figures are measured and logged. Creative readiness is not performance proof.
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
